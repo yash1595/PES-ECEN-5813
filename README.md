@@ -1,4 +1,4 @@
-# Principles of Embedded Software
+# Analog Data Capture and logging using UART and DMA
 
 Project-2 : Circular buffer and UART drivers  
 project-3 : ADC with DMA  
